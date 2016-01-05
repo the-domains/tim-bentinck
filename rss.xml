@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim Bentinck's Website]]></title>
+        <description><![CDATA[Tim Bentinck's Website]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 17:49:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>Welcome to my brand new website. My first was in 1998, now I'm getting AI to do it for me.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb3f733cdd3c9425897ff0a5d9d6dc247d5b231b.jpg"></article>]]></description>
+            <link>undefinedintroduction/index.html</link>
+            <guid isPermaLink="false">179ecf7f-4a99-4892-80d8-34b089dc1681</guid>
+            <pubDate>Tue, 05 Jan 2016 17:49:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
