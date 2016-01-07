@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've been a professional actor since 1978. Here's some of the productions I've been in."
-datePublished: '2016-01-05T18:11:06.378Z'
-dateModified: '2016-01-05T18:10:35.317Z'
+datePublished: '2016-01-07T17:25:29.502Z'
+dateModified: '2016-01-07T17:25:23.630Z'
 title: Television
 author: []
+sourcePath: _posts/2016-01-05-television.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-05-television.md
-published: true
 url: television/index.html
 _type: WebPage
 
