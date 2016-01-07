@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-07T17:24:31.069Z'
-dateModified: '2016-01-07T17:24:08.915Z'
+datePublished: '2016-01-07T17:27:56.935Z'
+dateModified: '2016-01-07T17:27:53.239Z'
 title: Introduction
 author: []
 sourcePath: _posts/2016-01-05-introduction.md
